@@ -1,4 +1,4 @@
-//To evaluate a polynomial using Horner's rule
+//To evaluate the value of a polynomial using Horner's rule
 #include<stdio.h>
 #include<stdlib.h>
 void main()
